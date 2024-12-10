@@ -1,1 +1,1 @@
-# WAVELETS
+# Signal Denosing Using WAVELETS
